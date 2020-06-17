@@ -1,0 +1,5 @@
+C:\Users\ertglr\source\repos\Dropzone\Dropzene.Model\bin\Debug\Dropzene.Model.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzene.Model\bin\Debug\Dropzene.Model.pdb
+C:\Users\ertglr\source\repos\Dropzone\Dropzene.Model\obj\Debug\Dropzene.Model.csprojAssemblyReference.cache
+C:\Users\ertglr\source\repos\Dropzone\Dropzene.Model\obj\Debug\Dropzene.Model.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzene.Model\obj\Debug\Dropzene.Model.pdb

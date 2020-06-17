@@ -1,0 +1,26 @@
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.dll.config
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.pdb
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzene.Model.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzene.Model.pdb
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.csproj.CopyComplete
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.dll
+C:\Users\ertglr\source\repos\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.pdb
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.dll.config
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.dll
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzone.DataAccessLayer.pdb
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzene.Model.dll
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\Dropzene.Model.pdb
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.csproj.CopyComplete
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.dll
+C:\Users\ertglr\Desktop\DERYA BİLİŞİM\Dropzone\Dropzone.DataAccessLayer\obj\Debug\Dropzone.DataAccessLayer.pdb
